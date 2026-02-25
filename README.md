@@ -32,7 +32,6 @@ I enjoy working on real-world projects, diving into mostly on front-end web appl
 
 - 💻 Portfolio / Personal site: [vasilistsomakas.vercel.app](https://vasilistsomakas.vercel.app)  
 - 🔗 LinkedIn: [in/vasilis-tsomakas-dev](https://www.linkedin.com/in/vasilis-tsomakas-dev)  
-- 📫 GitHub: [@VasilisTso](https://github.com/VasilisTso)  
 
 ---
 
