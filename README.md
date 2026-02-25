@@ -9,7 +9,7 @@ I enjoy working on real-world projects, diving into mostly on front-end web appl
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -28,14 +28,14 @@ I enjoy working on real-world projects, diving into mostly on front-end web appl
 
 ---
 
-## 🌐 Get In Touch
+## Get In Touch
 
-- 💻 Portfolio / Personal site: [vasilistsomakas.vercel.app](https://vasilistsomakas.vercel.app)  
-- 🔗 LinkedIn: [in/vasilis-tsomakas-dev](https://www.linkedin.com/in/vasilis-tsomakas-dev)  
+- Portfolio / Personal site: [vasilistsomakas.vercel.app](https://vasilistsomakas.vercel.app)  
+- LinkedIn: [in/vasilis-tsomakas-dev](https://www.linkedin.com/in/vasilis-tsomakas-dev)  
 
 ---
 
-## 📚 Education & Background
+## Education & Background
 
 - B.Sc / Integrated M.Sc — (University name / Department) _(update as appropriate)_  
 - Coursework & projects in: Distributed Systems, Object-Oriented Programming (C++), Client-Server networking, RPC, Web development.  
