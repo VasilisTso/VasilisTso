@@ -7,8 +7,6 @@ I enjoy working on real-world projects, diving into mostly on front-end web appl
 -  I’m always learning: expanding my knowledge in systems programming, distributed computing, and modern web technologies.  
 -  I love: tackling problems head-on, writing clean & maintainable code, and contributing to open source.  
 
----
-
 ## Tech Stack & Tools
 
 <p>
@@ -19,14 +17,11 @@ I enjoy working on real-world projects, diving into mostly on front-end web appl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
----
-
 ## Get In Touch
 
 - Portfolio / Personal site: [vasilistsomakas.vercel.app](https://vasilistsomakas.vercel.app)  
 - LinkedIn: [in/vasilis-tsomakas-dev](https://www.linkedin.com/in/vasilis-tsomakas-dev)  
 
----
 
 ## Education & Background
 
@@ -34,7 +29,6 @@ I enjoy working on real-world projects, diving into mostly on front-end web appl
 - Coursework & projects in: Distributed Systems, Object-Oriented Programming (C++), Client-Server networking, RPC, Web development.  
 - Comfortable with manual memory management (C / C++), pointers, dynamic allocation — and committed to writing clean, robust code.  
 
---- 
 
 
 
