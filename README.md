@@ -1,11 +1,11 @@
 # 👋 Hi there, I’m Vasilis Tsomakas
 
-I’m a software engineer from Greece, currently pursuing my bachelor’s (integrated master’s) degree, with a passion for building software and learning continuously.  
+I’m a software engineer from Greece, currently pursuing my integrated master’s degree, with a passion for building software and learning continuously.  
 I enjoy working on real-world projects, diving into mostly on front-end web applications.  
 
 -  I’m currently working on: university coursework & personal coding projects.  
--  I’m always learning: expanding my knowledge in systems programming, distributed computing, and modern web technologies.  
--  I love: tackling problems head-on, writing clean & maintainable code, and contributing to open source.  
+-  I’m always learning, expanding my knowledge in systems programming, distributed computing, and modern web technologies.  
+-  I love tackling problems head-on and writing clean & maintainable code.  
 
 ## Tech Stack & Tools
 
@@ -25,9 +25,9 @@ I enjoy working on real-world projects, diving into mostly on front-end web appl
 
 ## Education & Background
 
-- B.Sc / Integrated M.Sc — (University name / Department) _(update as appropriate)_  
-- Coursework & projects in: Distributed Systems, Object-Oriented Programming (C++), Client-Server networking, RPC, Web development.  
-- Comfortable with manual memory management (C / C++), pointers, dynamic allocation — and committed to writing clean, robust code.  
+- Integrated M.Sc — University of West Attica | Informatics and Computer Engineering 
+- Coursework & projects in:  Object-Oriented Programming (C++), Web development, , Analysis & Design of Information Systems,  Big Data Analysis, Artificial Intelligence.  
+- Comfortable with manual memory management (C / C++), pointers, dynamic allocation and committed to writing clean, robust code.  
 
 
 
